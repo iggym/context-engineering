@@ -1,7 +1,8 @@
 # Context Engineering: Making AI Smarter Through Better Information Management
 
-Welcome to the world of **Context Engineering**! Think of it as the art and science of helping AI systems work with information more effectively. Just like how a well-organized workspace helps you be more productive, context engineering helps large language models (LLMs) process and use information in smarter ways.
+ **Context Engineering** is the art and science of helping AI systems work with information more effectively. Just like how a well-organized workspace helps you be more productive, context engineering helps large language models (LLMs) process and use information in smarter ways.
 
+![context](ctxt.jpeg)
 ## What Is Context Engineering?
 
 Context Engineering is a specialized field focused on optimizing how we feed information to AI systems. Instead of just throwing data at an AI and hoping for the best, context engineering involves carefully structuring, finding, and managing the right information at the right time. It's like being a skilled librarian for AI systems!

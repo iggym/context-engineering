@@ -73,3 +73,5 @@ Context failures occur when information management breaks down, leading to four 
 
 ## Key Principle
 **Context is not free** - every token influences model behavior. Massive context windows are powerful but not an excuse for sloppy information management. The goal is to "pack the context windows just right" through disciplined information management.
+
+See [Fixing Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)

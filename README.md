@@ -1,5 +1,5 @@
 # Context Engineering: Making AI Smarter Through Better Information Management
-# Context Engineering Repository Summary
+![ctxt.jpeg]
 
 Context Engineering: "the art and science of helping AI systems work with information more effectively" - being a skilled librarian for AI rather than randomly throwing data at systems.
 
